@@ -59,7 +59,6 @@ C:\Users\Admin\source\repos\ControlInventario\ControlInventario\bin\Microsoft.As
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\bin\Microsoft.Owin.dll
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Admin\source\repos\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Cookies.dll
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.dll
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Facebook.dll
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Google.dll
@@ -125,257 +124,136 @@ C:\Users\Admin\source\repos\ControlInventario\ControlInventario\obj\Debug\Contro
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csproj.CopyComplete
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.dll
 C:\Users\Admin\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.pdb
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\ControlInventario.dll.config
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\ControlInventario.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\ControlInventario.pdb
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\csc.exe
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\csc.exe.config
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\csc.rsp
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\csi.exe
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\csi.exe.config
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\csi.rsp
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.AppContext.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Console.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.IO.Compression.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Net.Http.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Net.Sockets.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.ValueTuple.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Xml.XPath.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\vbc.exe
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\vbc.exe.config
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\vbc.rsp
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\VBCSCompiler.exe
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Antlr3.Runtime.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\EntityFramework.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\EntityFramework.SqlServer.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Newtonsoft.Json.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Owin.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.Helpers.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.Mvc.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.Optimization.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.Razor.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.WebPages.Deployment.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.WebPages.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.WebPages.Razor.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\WebGrease.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.Helpers.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.Mvc.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.Optimization.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.Razor.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.WebPages.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.WebPages.Deployment.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\System.Web.WebPages.Razor.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Newtonsoft.Json.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Antlr3.Runtime.pdb
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\EntityFramework.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\EntityFramework.SqlServer.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\System.Web.Helpers.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\System.Web.Mvc.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\System.Web.Optimization.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\System.Web.Razor.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\System.Web.WebPages.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\EntityFramework.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\EntityFramework.SqlServer.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.Google.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csprojAssemblyReference.cache
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csproj.CoreCompileInputs.cache
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csproj.CopyComplete
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\obj\Debug\ControlInventario.dll
-C:\Users\AlendraPc\Downloads\ControlInventario\ControlInventario\obj\Debug\ControlInventario.pdb
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\ControlInventario.dll.config
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\ControlInventario.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\ControlInventario.pdb
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\csc.exe
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\csc.exe.config
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\csc.rsp
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\csi.exe
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\csi.exe.config
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\csi.rsp
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.Managed.Core.targets
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\Microsoft.Win32.Primitives.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.AppContext.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Console.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Globalization.Calendars.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.IO.Compression.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.IO.Compression.ZipFile.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Net.Http.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Net.Sockets.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Security.Cryptography.Encoding.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Security.Cryptography.Primitives.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Text.Encoding.CodePages.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Threading.Tasks.Extensions.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.ValueTuple.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Xml.ReaderWriter.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Xml.XmlDocument.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Xml.XPath.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\System.Xml.XPath.XDocument.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\vbc.exe
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\vbc.exe.config
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\vbc.rsp
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\VBCSCompiler.exe
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Antlr3.Runtime.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\EntityFramework.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\EntityFramework.SqlServer.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Newtonsoft.Json.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Owin.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.Helpers.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.Mvc.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.Optimization.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.Razor.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.WebPages.Deployment.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.WebPages.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.WebPages.Razor.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\WebGrease.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.Helpers.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.Mvc.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.Optimization.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.Razor.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.WebPages.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.WebPages.Deployment.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\System.Web.WebPages.Razor.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Newtonsoft.Json.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Antlr3.Runtime.pdb
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\EntityFramework.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\EntityFramework.SqlServer.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\System.Web.Helpers.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\System.Web.Mvc.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\System.Web.Optimization.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\System.Web.Razor.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\System.Web.WebPages.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\EntityFramework.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\EntityFramework.SqlServer.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.Google.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csprojAssemblyReference.cache
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csproj.CoreCompileInputs.cache
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csproj.CopyComplete
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\obj\Debug\ControlInventario.dll
-C:\Users\AlendraPc\Documents\GitHub\Practicas-Web\ControlInventario\ControlInventario\obj\Debug\ControlInventario.pdb
+C:\Users\Admin\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.Migrations.InitialCreate.resources
+C:\Users\Admin\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ControlInventario\ControlInventario\obj\Debug\ControlInventario.Migrations.InitialCreate1.resources
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\ControlInventario.dll.config
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\ControlInventario.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\ControlInventario.pdb
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\csc.exe
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\csc.exe.config
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\csc.rsp
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\csi.exe
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\csi.exe.config
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\csi.rsp
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.AppContext.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Console.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.IO.Compression.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Net.Http.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Net.Sockets.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.ValueTuple.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\vbc.exe
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\vbc.exe.config
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\vbc.rsp
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\VBCSCompiler.exe
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Antlr3.Runtime.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\EntityFramework.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\EntityFramework.SqlServer.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Newtonsoft.Json.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Owin.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.Helpers.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.Mvc.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.Optimization.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.Razor.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.WebPages.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.WebPages.Razor.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\WebGrease.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Newtonsoft.Json.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.Helpers.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.Mvc.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.Optimization.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.Razor.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.WebPages.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\System.Web.WebPages.Razor.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Antlr3.Runtime.pdb
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\EntityFramework.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\EntityFramework.SqlServer.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.Owin.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\System.Web.Optimization.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\System.Web.Razor.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\System.Web.WebPages.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\EntityFramework.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\obj\Debug\ControlInventario.csprojAssemblyReference.cache
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\obj\Debug\ControlInventario.Migrations.InitialCreate.resources
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\obj\Debug\ControlInventario.Migrations.InitialCreate1.resources
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\obj\Debug\ControlInventario.csproj.GenerateResource.cache
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\obj\Debug\ControlInventario.csproj.CoreCompileInputs.cache
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\obj\Debug\ControlInventario.csproj.CopyComplete
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\obj\Debug\ControlInventario.dll
+C:\Users\AlendraPc\Downloads\Nueva carpeta\ControlInventario-master\ControlInventario\obj\Debug\ControlInventario.pdb
