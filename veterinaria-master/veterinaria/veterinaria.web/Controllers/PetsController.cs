@@ -1,13 +1,14 @@
 ﻿using Microsoft.AspNet.Identity;
 using System;
+using System.IO;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
-using System.Web;
 using System.Web.Mvc;
 using veterinaria.web.Models;
+using System.Web;
 
 namespace veterinaria.web.Controllers
 {
@@ -23,13 +24,9 @@ namespace veterinaria.web.Controllers
         public ActionResult Index()
         {
             var user = User.Identity.GetUserId();
-            var ow = db.Owners.Where(o => o.OwnerId == user).FirstOrDefault();
+            var ow = db.Owners.Where(o => o.UserId == user).FirstOrDefault();
             var pets = db.Pets.Include(u => u.Owner).Where(p => p.OwnerId == ow.Id).ToList();
 
-            if (pets == null)
-            {
-                return HttpNotFound();
-            }
             return View(pets);
         }
 
@@ -59,7 +56,7 @@ namespace veterinaria.web.Controllers
         // más detalles, vea https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Pet pet)
+        public ActionResult Create(Pet pet,HttpPostedFileBase hpb)
         {
             if (ModelState.IsValid)
             {
